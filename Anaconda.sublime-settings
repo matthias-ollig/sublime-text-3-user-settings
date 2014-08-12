@@ -1,0 +1,8 @@
+{
+    "anaconda_linting": false,
+    "complete_parameters": true,
+    "complete_all_parameters": true,
+    "settings": {
+        "python_interpreter": "$VIRTUAL_ENV/bin/python"
+    }
+}

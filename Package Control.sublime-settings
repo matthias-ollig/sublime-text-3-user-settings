@@ -1,0 +1,16 @@
+{
+	"installed_packages":
+	[
+		"Anaconda",
+		"BracketHighlighter",
+		"Git",
+		"GitGutter",
+		"HexViewer",
+		"requirementstxt",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}
