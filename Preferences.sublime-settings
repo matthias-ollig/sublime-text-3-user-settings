@@ -8,7 +8,7 @@
 	],
 	"bold_folder_labels": true,
 	"caret_style": "solid",
-	"color_scheme": "Packages/User/Tomorrow-Night (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night (SL).tmTheme",
 	"fade_fold_buttons": false,
 	"file_exclude_patterns":
 	[
@@ -24,7 +24,7 @@
 		".ipynb_checkpoints",
 		".DS_Store"
 	],
-	"font_size": 12,
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
